@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-
+<--
 **Osasusanoo/Osasusanoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on Video game and class codes
 - 🌱 I’m currently learning Linux and c++
 - 👯 I’m looking to collaborate on Game production
