@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about C++ and python
 - 📫 How to reach me: ogbeide301@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play Genshin
+- ⚡ Fun fact: Im a cosplayer and gamer
 
